@@ -3,7 +3,7 @@
 `Tebaş Otomasyon - Telegram API servis dökümantasyonu`
 
 ### Kullanım
-API BASE URL  =>  `https://api.tebasonline.com`.
+API BASE URL  =>  `https://api.tebasonline.com`
 ```
     > Tüm isteklerde "headers" alanında `telegram-api-key` ve `telegram-api-secret` gönderilmesi zorunludur.
 ```
